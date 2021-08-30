@@ -6,12 +6,11 @@
 }
 h1{
 	color: rgba(80, 205, 126, 0.7);
+	
+	text-align: center;
 }
 
 
-p.disclaimer{
-	color: darkred;
-}
 
 .connexion {
 	width: 150px;
