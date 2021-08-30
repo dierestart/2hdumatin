@@ -9,6 +9,11 @@ h1{
 	
 	text-align: center;
 }
+	body {
+	color:black;
+	background-color:white;
+	background-image:url(img/bannière.jpeg);
+}
 
 
 
